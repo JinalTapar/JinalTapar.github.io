@@ -5,8 +5,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 25  # Order that this section will appear.
 
-title = "Projects"
-subtitle = ""
+title = "Research"
+subtitle = "Ph.D. Thesis"
 
 [content]
   # Page type to display. E.g. project.
@@ -75,3 +75,4 @@ subtitle = ""
  css_class = ""
 +++
 
+Among many emerging technologies, photonics and quantum computing are two important technologies envisaged to revolutionize the next-gen computing era. Nanophotonics is the science of light generation and manipulation at nanoscale (chip-scale) dimensions. At nanoscale dimensions, interesting quantum phenomena open the door to novel functionalities. Bridging nanophotonics and quantum physics holds the key to both these emerging technologies. The concept of Parity-Time (PT) symmetry initially conceived within the context of quantum mechanics has found a conducive platform in optics due to the flexibility of judiciously providing gain and loss in an optical system. We have explored a parity-time (PT) symmetric semiconductor metasurface for light emission and dynamic wavefront manipulation. Some of the key challenges that we have addressed while working on my PhD thesis project are outlined below:
