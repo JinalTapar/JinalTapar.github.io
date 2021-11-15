@@ -23,7 +23,7 @@ bio: My research interests include Active Nanophotonic devices, Reconfigurable m
 
 interests:
 - Active Nanophotonics
-- Semiconductor Metasurfaces
+- Semiconductor Reconfigurable Metasurfaces
 - Non-Hermitian Photonics
 - Simulation and Modeling
 
