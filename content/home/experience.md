@@ -18,47 +18,23 @@ date_format = "2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Assistant Professor"
-  company = "IIT Hyderabad"
-  company_url = "https://iith.ac.in"
-  location = "Hyderabad, India"
-  date_start = "2016-05-23"
-  date_end = "2021-09-20"
-  description = """
-  """
-
-
+  title = "External Researcher (INUP)"
+  company = "Indian Institute of Technology Bombay"
+  company_url = "https://iitb.ac.in/"
+  location = "Mumbai"
+  date_start = "2016-11-10"
+  date_end = "2017-04-30"
+  description = """Fabrication of gate-all-around (GAA) nanopillar Tunnel FET device. """
 
 [[experience]]
-  title = "Assistant Professor"
-  company = "IIT Guwahati"
-  company_url = "http://www.iitg.ac.in"
-  location = "Guwahati, India"
-  date_start = "2015-09-30"
-  date_end = "2016-05-20"
-  description = """
-  """
+  title = "Lecturer"
+  company = "HVPM College Of Engineering, Amravati"
+  company_url = "https://www.a-star.edu.sg/"
+  location = "Amravati"
+  date_start = "2015-07-01"
+  date_end = "2017-06-30"
+  description = """ Teaching, lab courses, writing proposals."""
 
-[[experience]]
-  title = "PostDoc Research Assistant"
-  company = "University of Oxford"
-  company_url = "https://www.cs.ox.ac.uk"
-  location = "Oxford, UK"
-  date_start = "2012-08-13"
-  date_end = "2015-08-12"
-  description = """
-"""
-
-
-[[experience]]
-  title = "Project Trainee"
-  company = "IBM India Research Lab"
-  company_url = ""
-  location = "New Delhi, India"
-  date_start = "2006-08-02"
-  date_end = "2007-07-11"
-  description = """
-"""
 
 
 +++
