@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 role: PhD graduate
-#role: Assistant Professor, [CSE](https://cse.iith.ac.in)
+
 
 # Organizations/Affiliations
 #organizations:
@@ -19,24 +19,25 @@ role: PhD graduate
 #  url: "https://iith.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Constraint Programming, Formal Verification and Program Analysis.
+bio: My research interests include Active Nanophotonic devices, Reconfigurable metasurfaces, Quantum Photonics, non-Hermitian Photonics.
 
 interests:
-- Constraint Programming
-- Formal Verification
-- Program Analysis
+- Active Nanophotonics
+- Semiconductor Metasurfaces
+- Non-Hermitian Photonics
+- Simulation and Modeling
 
 education:
   courses:
-  - course: PhD in Computer Science and Engineering
-    institution: IIT Kanpur
-    year: 2012
-  - course: MTech in Computer Science and Engineering
-    institution: IIT Bombay
-    year: 2006
-  - course: BE in Information Technology
-    institution: Sardar Patel University, Vallabhvidyanagar
-    year: 2003
+  - course: PhD in Electrical Engineering
+    institution: Indian Institute of Technology Hyderabad
+    year: 2021
+  - course: MTech in ECE
+    institution: Amravati University
+    year: 2015
+  - course: BTech in Instrumentation and Electronics
+    institution: Government College of Engineering, Amravati
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -45,30 +46,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/sbjoshi
+  link: 'mailto: jinal.tapar18@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/Jinal_Tapar
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=MvHEGbYAAAAJ
-- icon: dblp
-  icon_pack: ai
-  link: https://dblp.org/pid/13/4416-1.html
-- icon: orcid
-  icon_pack: ai
-  link: https://orcid.org/0000-0001-8070-1525
-- icon: github
-  icon_pack: fab
-  link: https://github.com/sbjoshi
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/sbjoshi0001/
+  link: https://scholar.google.co.in/citations?hl=en&view_op=list_works&authuser=1&gmla=AJsN-F7CW8WsofdHfinSssMZD7OEbnC_W0H4BG47HnaKqzrF64q0EBUKXRfZ2QOXBAqYHO8NiMHLrWB8aojun3F9y0TeAmATxg&user=IKSDgPIAAAAJ
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/Naresh-IITH
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/Jinal_CV_2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -83,4 +75,7 @@ user_groups:
 - Visitors
 ---
 
-I am an Engineer working with a Product Security group at a private company. All the information/views expressed here are my own and do not represent views of any of my past or current employer.
+Jinal Tapar has completed her Ph.D. under the advisement of [Dr. Naresh Emani](https://iith.ac.in/~nke/) at the department of Electrical Engineering, IIT Hyderabad. Her research interest spans Semiconductor Nanophotonics, Non-Hermitian systems, All-dielectric tunable metasurfaces. 
+In her Ph.D. with Dr. Emani’s group, she investigated the prospects of parity-time symmetric nanophotonic devices for light generation and manipulation bridging nanophotonics and quantum physics. Jinal is an active student member of SPIE, OSA, now renamed Optica, and IEEE Photonics society. 
+She has published four journal papers and has presented in premier national and international conferences like META, SPIE, FiO, ICEE etc., resulting in 8 proceedings. 
+For more details, please see  her [current CV](files/Jinal_CV_2021.pdf). 
