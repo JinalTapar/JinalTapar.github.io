@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jinal Tapar
+title: Webpage of Jinal Tapar
 
 # Username (this should match the folder name)
 authors:
@@ -15,8 +15,8 @@ role: PhD graduate
 
 # Organizations/Affiliations
 #organizations:
-#- name: IIT Hyderabad
-#  url: "https://iith.ac.in"
+- name: Indian Institute of Technology Hyderabad
+  url: "https://iith.ac.in"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Active Nanophotonic devices, Reconfigurable metasurfaces, Quantum Photonics, non-Hermitian Photonics.
