@@ -4,7 +4,7 @@ title: Jinal Tapar
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jinal
 
 # Is this the primary user of the site?
 superuser: true
@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Jinal_CV_2021.pdf
+  link: files/Jinal_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-Jinal Tapar has completed her Ph.D. under the advisement of [Dr. Naresh Emani](https://iith.ac.in/~nke/) at the department of Electrical Engineering, IIT Hyderabad. Her research interest spans Semiconductor Nanophotonics, Non-Hermitian systems, All-dielectric tunable metasurfaces. 
+Jinal Tapar has completed her Ph.D. under the guidance of [Dr. Naresh Emani](https://iith.ac.in/~nke/) at the department of Electrical Engineering, IIT Hyderabad. Her research interest spans Semiconductor Nanophotonics, Non-Hermitian systems, All-dielectric tunable metasurfaces. 
 In her Ph.D. with Dr. Emani’s group, she investigated the prospects of parity-time symmetric nanophotonic devices for light generation and manipulation bridging nanophotonics and quantum physics. Jinal is an active student member of SPIE, OSA, now renamed Optica, and IEEE Photonics society. 
 She has published four journal papers and has presented in premier national and international conferences like META, SPIE, FiO, ICEE etc., resulting in 8 proceedings. 
-For more details, please see  her [current CV](files/Jinal_CV_2021.pdf). 
+For more details, please see  her [current CV](files/Jinal_CV.pdf). 
